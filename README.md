@@ -7,7 +7,7 @@
 > :information_source: **You need to login using a microsoft account in order to use the application.**
 
 > :information_source: **It can take around one to two minute for application to load.**
-> 
+
 > :warning: **It has been tested on latest MS Edge (Desktop) and Firefox only. But it should work on other desktop browsers awell.**
 
 Demo Link: https://symmath-ui.azurewebsites.net/
